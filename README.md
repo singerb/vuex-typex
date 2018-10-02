@@ -1,5 +1,7 @@
 # Vuex-Typex
 
+Forked to fix the module build and include the dist/ folder so it can be installed from GitHub.
+
 ### A TypeScript pattern for strongly-typed access to Vuex Store modules
 
 I really [vuex-typescript](https://github.com/istrib/vuex-typescript/) by [@istrib](https://github.com/istrib)
